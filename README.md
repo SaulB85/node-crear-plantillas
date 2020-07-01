@@ -1,7 +1,5 @@
-## Crear plantillas con node
-
 # Crear plantillas con node utilizando yargs
-# Ejemplo:
+## Ejemplo:
 
 ```
 node crear ar -t "home"
